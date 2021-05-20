@@ -1,0 +1,2 @@
+# vintech
+static website
